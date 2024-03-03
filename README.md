@@ -1,17 +1,9 @@
-# noticiario
-
-Noticirio internacional y local desarrollado por Karim Ruiz
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Noticiario
+
+Noticiario con secciones internacional, europea y española desarrollado por Karim Ruiz
+La interfaz ha sido desarrollada utilizando **Flutter**, la cual se divide en tres apartados: una noticia de portada, una lista de noticias recomendadas y una lista de noticias recientes.
+
+La aplicación soporta tanto **modo claro como modo oscuro**, así como formato horizontal y vertical en dispositivos móviles.
+
+<img alt="Modo claro" src='https://i.imgur.com/HBywmIB.jpeg' width='250'>
+<img alt="Modo oscuro" src='https://i.imgur.com/4sjKcqC.jpeg' width='250'>
